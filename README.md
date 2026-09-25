@@ -1,4 +1,4 @@
-Hi, I'm Shaibu (Shai) Ibrahim, P.E. ⚡
+Hi, I'm Shaibu (Shai) Ibrahim, P.E.
 
 Power systems engineer (licensed P.E. in IL, NJ, PA) with 10+ years in substation design, power studies, and utility-scale solar, wind, and BESS interconnection.
 
