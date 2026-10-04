@@ -4,5 +4,4 @@ Power systems engineer (licensed P.E. in IL, NJ, PA) with 10+ years in substatio
 
 🔧 Currently building open-source tools that help engineers screen grid-strength and stability risks of inverter-based resources earlier in the interconnection process.
 
-📫 [LinkedIn](https://www.linkedin.com/in/shaibuibrahim/) · [Google Scholar](https://scholar.google.com/citations?user=xMgQtaYAAAAJ&hl=en&authuser=2) · ishaibu136@gmail.com
-
+📫 [LinkedIn](https://www.linkedin.com/in/shaibuibrahim/) · [Google Scholar](https://scholar.google.com/citations?user=xMgQtaYAAAAJ&hl=en&authuser=2) · [ORCID](https://orcid.org/0009-0009-5942-9702) · ishaibu136@gmail.com
